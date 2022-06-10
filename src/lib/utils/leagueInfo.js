@@ -8,10 +8,9 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <p>Florida High School 8A Region 4A Football</p>
-  <p>Tier #14. Lowest tier of the Alliance.</p>
   <p>20 teams</p>
-  <p>20 teams</p>
-  <p>20 teams</p>
+  <p>Tier #14, lowest tier of the Alliance.</p>
+  <p>Commissioner, Davidsstone</p>
   <p>President, PwnRangr.</p>
 `;
 
